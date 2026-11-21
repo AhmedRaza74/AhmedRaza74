@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Raza 👋
 
-Final-year BS Cybersecurity student at **FAST-NUCES Karachi**
+Final-year BS Cybersecurity student at **FAST-NUCES Karachi**<br>
 **SOC Analysis**, **Penetration Testing** and **Cloud Security**.
 
 ## 🔧 Tools I work with
