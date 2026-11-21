@@ -1,6 +1,7 @@
 # Hi, I'm Ahmed Raza 👋
 
-Final-year BS Cybersecurity student at **FAST-NUCES Karachi** (Batch 2023–2027), looking for entry-level and internship roles in **SOC Analysis**, **Penetration Testing** and **Cloud Security**.
+Final-year BS Cybersecurity student at **FAST-NUCES Karachi**
+**SOC Analysis**, **Penetration Testing** and **Cloud Security**.
 
 ## 🔧 Tools I work with
 - **Recon & scanning:** Nmap, Nessus
