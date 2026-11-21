@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ahmed Raza 👋
 
-<!--
-**AhmedRaza74/AhmedRaza74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year BS Cybersecurity student at **FAST-NUCES Karachi** (Batch 2023–2027), looking for entry-level and internship roles in **SOC Analysis**, **Penetration Testing** and **Cloud Security**.
 
-Here are some ideas to get you started:
+## 🔧 Tools I work with
+- **Recon & scanning:** Nmap, Nessus
+- **Web & network testing:** Burp Suite, Wireshark, Metasploit
+- **Frameworks:** NIST, compliance documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently
+- Building **SecureRad**, my final year project (AI chest X-ray report generation with adversarial robustness and privacy)
+- Learning cloud security (AWS, Security+)
+- Documenting CTF writeups and lab notes on GitHub
+
+## 📫 Connect
+- LinkedIn: [ahmed-raza-cybersecurity](https://www.linkedin.com/in/ahmed-raza-cybersecurity/)
